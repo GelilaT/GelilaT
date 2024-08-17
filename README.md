@@ -15,7 +15,8 @@ I love diving into front-end development and UI/UX design. I’m all about build
 
 ## Connect with Me
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/gelila-tefera-7a7006259/) 🌐. 
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/gelila-tefera-7a7006259/) or [Telegram](https://t.me/gelila575) 🌐.
+
 
 Looking forward to collaborating and creating something amazing! 🚀
 
