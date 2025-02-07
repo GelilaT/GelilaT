@@ -1,6 +1,5 @@
 # Hi there, I am Gelila! 👩🏻‍💻👋
 
-![My Profile Picture](github.png) 
 I'm a **Software Engineer** with a passion for **Front-End Development** and **UI/UX Design**. 👨‍💻✨
 
 ## About Me
