@@ -6,7 +6,7 @@ Software Engineer passionate about building scalable, user-focused applications 
 
 I'm a Software Engineer with experience building full-stack applications using **TypeScript, React, Next.js, Node.js, NestJS, and Python**. I enjoy creating products that combine great user experiences with reliable, scalable backend systems.
 
-I have worked on production applications across different domains, including finance, healthcare, and business intelligence platforms — building features from intuitive frontend interfaces to backend services, APIs, database systems, and integrations.
+I have worked on production applications across different domains, including finance, healthcare, and business intelligence platforms, building features from intuitive frontend interfaces to backend services, APIs, database systems, and integrations.
 
 Beyond coding, I'm passionate about helping others grow as engineers. Through **A2SV (Africa to Silicon Valley)**, I have mentored aspiring developers and contributed to technical education initiatives, helping students strengthen their problem-solving and software engineering skills.
 
